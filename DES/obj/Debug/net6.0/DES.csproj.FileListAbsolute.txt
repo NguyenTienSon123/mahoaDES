@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.AssemblyInfo.cs
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\DES\DES\bin\Debug\net6.0\DES.exe
+C:\Users\MSI\source\repos\DES\DES\bin\Debug\net6.0\DES.deps.json
+C:\Users\MSI\source\repos\DES\DES\bin\Debug\net6.0\DES.runtimeconfig.json
+C:\Users\MSI\source\repos\DES\DES\bin\Debug\net6.0\DES.dll
+C:\Users\MSI\source\repos\DES\DES\bin\Debug\net6.0\DES.pdb
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.dll
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\refint\DES.dll
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.pdb
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\DES.genruntimeconfig.cache
+C:\Users\MSI\source\repos\DES\DES\obj\Debug\net6.0\ref\DES.dll
